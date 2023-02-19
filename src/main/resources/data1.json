@@ -1,0 +1,202 @@
+
+  {
+    "_id": "86d0c7ac4f8873038ce523422",
+    "uuid": "7280f361-7ae3-4352-8b45-3abd25e476ac",
+    "database": {
+      "ecg_origin_uuid": "CAR-DI27051976_19022008_125429",
+      "ecg_file_path": "/data/projects/deepecg/data/ecg/db_projects/cic/generopol/database/Generopol2013/EXP/080219120343CAR-DI(21).EXP",
+      "digitized": false,
+      "name": "Generopol",
+      "uuid": "60d0c7a94f8873038ce5233a",
+      "importation_date": "2021-06-21 17:08:57.794000",
+      "study": "Generopol",
+      "source": "CIC"
+    },
+    "leads": {
+      "I": [
+        0,
+        1549,
+        784.5,
+        -9.5,
+        -771.5,
+        -1454
+      ]
+    },
+    "visit": {
+      "label": "NA",
+      "recording_started_at": "2008-03-03 13:25:11",
+      "recording_ended_at": "NA",
+      "recording_duration": "10s",
+      "recording_sampling_rate": 500,
+      "recording_time": {
+        "value": "sotT3",
+        "label": "Sotalol",
+        "description": "T3_JOE"
+      }
+    },
+    "patient": {
+      "patient_id": "1",
+      "anonymized": true,
+      "birth_date": "NA",
+      "age": 44,
+      "height": "160.0",
+      "weight": "60.0",
+      "sex": "Female",
+      "origin": "Caucasian",
+      "observation": "NA"
+    },
+    "annotations": {
+      "expert": {
+        "qtcf": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 399
+        },
+        "qtcf.t3h": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 396
+        },
+        "rr.delta.%": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 15.611664295874826
+        },
+        "qtc.delta": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 25.333333333333314
+        },
+        "qtcf.delta.%": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 6.834532374100713
+        },
+        "rr.basal": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 937.3333333333334
+        },
+        "rr.t3h": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 1083.6666666666667
+        },
+        "hr.basal": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 64.01137980085348
+        },
+        "hr.delta": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": -8.643800594455449
+        },
+        "hr.t3h": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 55.36757920639803
+        },
+        "qtcf.basal": {
+          "lead": "All",
+          "value_format": "NUMERIC",
+          "numeric_value": 370.6666666666667
+        }
+      },
+      "device": {}
+    },
+    "properties": [
+      {
+        "name": "creatinine",
+        "value": "True"
+      },
+      {
+        "name": "kalemia",
+        "value": 4.2
+      },
+      {
+        "name": "bmi",
+        "value": 23.437499999999996
+      },
+      {
+        "name": "sbp",
+        "value": 108
+      },
+      {
+        "name": "dbp",
+        "value": 66
+      },
+      {
+        "name": "pid",
+        "value": "pid_gp_001"
+      },
+      {
+        "name": "fid",
+        "value": "pid_gp_001_2008-02-19 12:54:29"
+      },
+      {
+        "name": "clinical_classification",
+        "value": "Sot-"
+      },
+      {
+        "name": "num_incl",
+        "value": 1,
+        "description": "NumIncl"
+      },
+      {
+        "name": "pad",
+        "value": 66,
+        "description": "PAD"
+      },
+      {
+        "name": "pas",
+        "value": 108,
+        "description": "PAS"
+      },
+      {
+        "name": "bmi",
+        "value": 23.4375,
+        "description": "BMI"
+      },
+      {
+        "name": "notch",
+        "value": 0,
+        "description": "Notch"
+      },
+      {
+        "name": "morpho.jes",
+        "value": 0,
+        "description": "morpho JES"
+      },
+      {
+        "name": "morpho.cfb",
+        "value": 0,
+        "description": "morpho CFB"
+      },
+      {
+        "name": "pid",
+        "value": "pid_gp_001",
+        "description": "pid"
+      },
+      {
+        "name": "ikr_block_multilead_score",
+        "value": 0.24999999664723874,
+        "description": "Ikr_block_multilead_score"
+      },
+      {
+        "name": "ikr_block_multilead_class",
+        "value": "Sot-",
+        "description": "Ikr_block_multilead_class"
+      },
+      {
+        "name": "ikr_block_unilead_score",
+        "value": 0.012262439727783203,
+        "description": "Ikr_block_unilead_score"
+      },
+      {
+        "name": "ikr_block_unilead_class",
+        "value": "Sot-",
+        "description": "Ikr_block_unilead_class"
+      }
+    ]
+  }
